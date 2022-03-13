@@ -1,7 +1,9 @@
-Meu nome é Leticia. <br>
+<h1>Meu nome é Leticia.</h1>
 
-Curso o quarto ano do curso técnico de informática do CEFET.
+<p>Curso o quarto ano do curso técnico de informática do CEFET.</P>
 
-Principais interesses:
-- Desenvolvimento web
-- Análise de dados
+<p>Principais interesses:
+  <ul>
+  <li>Desenvolvimento web</li>
+  <li>Análise de dados</li>
+  </ul></p>
